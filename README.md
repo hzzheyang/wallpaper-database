@@ -3,7 +3,7 @@
 
 微软必应首页每日一图接口: [https://cn.bing.com/](https://cn.bing.com/)
 
-在线预览：[https://mouday.github.io/wallpaper](https://mouday.github.io/wallpaper)
+在线预览：[https://hzzheyang.github.io/wallpaper](https://hzzheyang.github.io/wallpaper)
 
 > 数据缓存开始时间: 2022/10/27
 
@@ -11,13 +11,13 @@
 
 接口地址：
 ```
-https://mouday.github.io/wallpaper-database/
+https://hzzheyang.github.io/wallpaper-database/
 ```
 
 请求方式：
 
 ```
-https://mouday.github.io/wallpaper-database/<year>/<month>/<day>.json
+https://hzzheyang.github.io/wallpaper-database/<year>/<month>/<day>.json
 ```
 
 参数说明
@@ -30,7 +30,7 @@ https://mouday.github.io/wallpaper-database/<year>/<month>/<day>.json
 
 例如
 
-[https://mouday.github.io/wallpaper-database/2022/10/27.json](https://mouday.github.io/wallpaper-database/2022/10/27.json)
+[https://hzzheyang.github.io/wallpaper-database/2022/10/27.json](https://hzzheyang.github.io/wallpaper-database/2022/10/27.json)
 
 返回数据
 
