@@ -9,14 +9,14 @@ import re
 from datetime import datetime
 from urllib.parse import urljoin
 
-import requests
+from curl_cffi import requests
 
 
 def get_bing_image():
     url = 'https://cn.bing.com'
 
     headers = {
-        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
     }
 
     res = requests.get(url, headers=headers)
